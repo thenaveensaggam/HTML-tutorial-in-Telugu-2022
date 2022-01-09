@@ -1,0 +1,22 @@
+body{
+    font-family: Calibri,sans-serif;
+    background-color: gray;
+}
+div{
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 10px;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+th{
+    background-color: gray;
+    color: white;
+}
+img{
+    border-radius: 50%;
+    box-shadow: 0 0 10px black;
+}

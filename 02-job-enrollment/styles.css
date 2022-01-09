@@ -1,0 +1,20 @@
+body{
+    font-family: Calibri, sans-serif;
+}
+div{
+    background-color: lightgray;
+    width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px gray;
+}
+input , textarea , select{
+    border: none;
+    font-size: 20px;
+    margin: 5px;
+    border-radius: 5px;
+}
+.button{
+    background-color: black;
+    color: white;
+}
